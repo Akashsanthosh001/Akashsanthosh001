@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm **Akash Santhosh**, a passionate developer working on AI and automation projects.
+I'm **Akash SanthoshKumar**, a passionate developer working on AI and automation projects.
 
 ### 🌱 About Me
 
